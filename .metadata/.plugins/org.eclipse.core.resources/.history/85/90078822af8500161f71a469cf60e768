@@ -1,0 +1,14 @@
+package com.parents;
+
+public class Smurf extends CharacterClass {
+
+	public Smurf() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Smurf(int health, int magic, String name) {
+		super(health, magic, name);
+		// TODO Auto-generated constructor stub
+	}
+
+}

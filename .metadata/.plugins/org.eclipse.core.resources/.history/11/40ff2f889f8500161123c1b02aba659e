@@ -1,0 +1,5 @@
+package com.parents;
+
+public class Elf extends CharacterClass {
+
+}

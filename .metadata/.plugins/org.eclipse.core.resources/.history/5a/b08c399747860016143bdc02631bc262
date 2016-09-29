@@ -1,0 +1,9 @@
+package com.app;
+
+public class Weapons {
+
+	public Weapons() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

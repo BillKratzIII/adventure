@@ -1,0 +1,14 @@
+package com.parents;
+
+public class Turtle extends CharacterClass {
+
+	public Turtle() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Turtle(int health, int magic, String name) {
+		super(health, magic, name);
+		// TODO Auto-generated constructor stub
+	}
+
+}

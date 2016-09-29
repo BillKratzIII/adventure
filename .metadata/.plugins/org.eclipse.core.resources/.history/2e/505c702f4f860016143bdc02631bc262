@@ -1,0 +1,30 @@
+package com.characters;
+
+import com.interfaces.Ninja;
+import com.parents.Turtle;
+
+public class TurtleNinja extends Turtle implements Ninja {
+
+	public TurtleNinja() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public TurtleNinja(int health, int magic, String name) {
+		super(health, magic, name);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void changeHealth() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void changeMagic() {
+		// TODO Auto-generated method stub
+
+	}
+
+
+}

@@ -1,0 +1,35 @@
+package com.characters;
+
+import com.interfaces.RoyalInterface;
+import com.parents.Elf;
+
+public class ElfRoyal extends Elf implements RoyalInterface {
+
+	public ElfRoyal(int health, int magic, String name) {
+		super(health, magic, name);
+		// TODO Auto-generated constructor stub
+	}
+
+	public ElfRoyal() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void changeHealth() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void changeMagic() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void weaponType() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

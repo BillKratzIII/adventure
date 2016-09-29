@@ -1,0 +1,7 @@
+package com.parents;
+
+public abstract class Human extends CharacterClass {
+
+	
+
+}
